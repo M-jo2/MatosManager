@@ -1,0 +1,23 @@
+body{
+	background-color: #EDEFEE;
+}
+
+.header{
+	border-right: 2px solid #41403C;
+	border-left: 2px solid #41403C;
+}
+
+
+
+.body-content{
+	border: 2px solid #41403C;
+	border-bottom-right-radius: 15px;
+	border-bottom-left-radius: 15px;
+	padding : 10px;
+}
+
+
+.line-items{
+	height: auto;
+	margin-bottom: 20px;
+}
